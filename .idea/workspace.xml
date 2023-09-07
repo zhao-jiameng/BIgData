@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BIgData:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8569f13f-773c-4898-9b21-43b50c615f54" name="更改" comment="first submit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/scala/gy/gy_demo1.scala" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\Java\Mavenck\repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2T9VK6XUhKd5F0S7ar3OhgjMaRl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "H:/Scala_Project/spark",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.416819",
+    "settings.editor.selected.configurable": "bigdataide_conn_settings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "redis",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Scala_Project\BIgData\src\main\resources" />
+      <recent name="H:\Scala_Project\BIgData\src\main\scala" />
+      <recent name="H:\Scala_Project\Bigdata\BIgData\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Scala_Project\BIgData\src\main\resources" />
+      <recent name="H:\Scala_Project\BIgData\src\main\resources\conf" />
+      <recent name="H:\Scala_Project\BIgData\src\main\resources\olddata" />
+      <recent name="H:\Scala_Project\Bigdata\BIgData\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.gy_demo1">
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="onetest.demo1" />
+      <module name="BIgData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="onetest.demo3" />
+      <module name="BIgData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gy_demo1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="gy.gy_demo1" />
+      <module name="BIgData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hbase" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="twotest.hbase" />
+      <module name="BIgData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kafka" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="twotest.kafka" />
+      <module name="BIgData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.gy_demo1" />
+        <item itemvalue="应用程序.kafka" />
+        <item itemvalue="应用程序.demo3" />
+        <item itemvalue="应用程序.hbase" />
+        <item itemvalue="应用程序.demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8569f13f-773c-4898-9b21-43b50c615f54" name="更改" comment="" />
+      <created>1690455219118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690455219118</updated>
+      <workItem from="1690455221037" duration="12754000" />
+      <workItem from="1690529585831" duration="3530000" />
+      <workItem from="1690639976827" duration="28000" />
+      <workItem from="1690721979585" duration="2277000" />
+      <workItem from="1691489787013" duration="5448000" />
+      <workItem from="1691510350597" duration="1039000" />
+      <workItem from="1691514819674" duration="135000" />
+      <workItem from="1691515112710" duration="167000" />
+      <workItem from="1691515296871" duration="117000" />
+      <workItem from="1691565074786" duration="54000" />
+      <workItem from="1691565139227" duration="292000" />
+      <workItem from="1691566006646" duration="263000" />
+      <workItem from="1691566347832" duration="3005000" />
+      <workItem from="1691598194055" duration="79000" />
+      <workItem from="1691598283413" duration="47000" />
+      <workItem from="1691598346961" duration="144000" />
+      <workItem from="1691829779586" duration="7153000" />
+      <workItem from="1691922884858" duration="2263000" />
+      <workItem from="1692012383857" duration="6991000" />
+      <workItem from="1692020102882" duration="4017000" />
+      <workItem from="1692096047822" duration="13902000" />
+      <workItem from="1692162956449" duration="7705000" />
+      <workItem from="1692252018963" duration="2526000" />
+      <workItem from="1692254879091" duration="22623000" />
+      <workItem from="1693150924212" duration="754000" />
+      <workItem from="1693151866478" duration="14772000" />
+      <workItem from="1693751711010" duration="68866000" />
+    </task>
+    <task id="LOCAL-00001" summary="更改">
+      <option name="closed" value="true" />
+      <created>1694064775940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694064775940</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first submit">
+      <option name="closed" value="true" />
+      <created>1694065659879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694065659879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改" />
+    <MESSAGE value="first submit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first submit" />
+  </component>
+</project>

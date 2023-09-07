@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jetty:jetty-jmx:9.4.6.v20170531" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.eclipse.jetty" artifactId="jetty-jmx" version="9.4.6.v20170531" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/eclipse/jetty/jetty-jmx/9.4.6.v20170531/jetty-jmx-9.4.6.v20170531.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/eclipse/jetty/jetty-jmx/9.4.6.v20170531/jetty-jmx-9.4.6.v20170531-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/eclipse/jetty/jetty-jmx/9.4.6.v20170531/jetty-jmx-9.4.6.v20170531-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

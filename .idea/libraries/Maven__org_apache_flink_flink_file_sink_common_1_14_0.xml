@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-file-sink-common:1.14.0" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.apache.flink" artifactId="flink-file-sink-common" version="1.14.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/apache/flink/flink-file-sink-common/1.14.0/flink-file-sink-common-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/apache/flink/flink-file-sink-common/1.14.0/flink-file-sink-common-1.14.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/apache/flink/flink-file-sink-common/1.14.0/flink-file-sink-common-1.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

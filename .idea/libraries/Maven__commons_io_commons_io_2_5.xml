@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: commons-io:commons-io:2.5" type="java-imported" external-system-id="Maven">
+    <properties groupId="commons-io" artifactId="commons-io" version="2.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/commons-io/commons-io/2.5/commons-io-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/commons-io/commons-io/2.5/commons-io-2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/commons-io/commons-io/2.5/commons-io-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

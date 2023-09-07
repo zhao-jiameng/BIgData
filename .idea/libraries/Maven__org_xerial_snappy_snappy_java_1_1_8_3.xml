@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.xerial.snappy:snappy-java:1.1.8.3" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.xerial.snappy" artifactId="snappy-java" version="1.1.8.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/xerial/snappy/snappy-java/1.1.8.3/snappy-java-1.1.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/xerial/snappy/snappy-java/1.1.8.3/snappy-java-1.1.8.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/xerial/snappy/snappy-java/1.1.8.3/snappy-java-1.1.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

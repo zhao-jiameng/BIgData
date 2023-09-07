@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.scala-lang:scala-library:2.12.7" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.scala-lang" artifactId="scala-library" version="2.12.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/scala-lang/scala-library/2.12.7/scala-library-2.12.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/scala-lang/scala-library/2.12.7/scala-library-2.12.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/scala-lang/scala-library/2.12.7/scala-library-2.12.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.1" type="java-imported" external-system-id="Maven">
+    <properties groupId="javax.servlet.jsp" artifactId="javax.servlet.jsp-api" version="2.3.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.1/javax.servlet.jsp-api-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.1/javax.servlet.jsp-api-2.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.1/javax.servlet.jsp-api-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

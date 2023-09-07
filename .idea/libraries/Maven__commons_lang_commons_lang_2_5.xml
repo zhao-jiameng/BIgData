@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: commons-lang:commons-lang:2.5" type="java-imported" external-system-id="Maven">
+    <properties groupId="commons-lang" artifactId="commons-lang" version="2.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/commons-lang/commons-lang/2.5/commons-lang-2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/commons-lang/commons-lang/2.5/commons-lang-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

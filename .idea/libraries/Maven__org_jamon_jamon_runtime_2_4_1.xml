@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.jamon:jamon-runtime:2.4.1" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.jamon" artifactId="jamon-runtime" version="2.4.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/jamon/jamon-runtime/2.4.1/jamon-runtime-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/jamon/jamon-runtime/2.4.1/jamon-runtime-2.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Java/Mavenck/repository/org/jamon/jamon-runtime/2.4.1/jamon-runtime-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
